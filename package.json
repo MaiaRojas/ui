@@ -58,7 +58,7 @@
     "rollup-plugin-node-globals": "^1.2.1",
     "rollup-plugin-node-resolve": "^4.0.1",
     "rollup-plugin-size-snapshot": "^0.8.0",
-    "rollup-plugin-svg": "^1.0.1",
+    "rollup-plugin-svg": "^2.0.0",
     "rollup-plugin-uglify": "^6.0.2",
     "throttle-debounce": "^2.1.0"
   },
